@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Apple vendor id 0x05AC = 1452. Product ids: iPhone 0x12A8, iPod touch 0x12AA, iPad 0x12AB,
+     recovery mode 0x1281, DFU mode 0x1227. Other Apple accessories are ignored. -->
+<resources>
+    <usb-device vendor-id="1452" product-id="4776" />
+    <usb-device vendor-id="1452" product-id="4778" />
+    <usb-device vendor-id="1452" product-id="4779" />
+    <usb-device vendor-id="1452" product-id="4737" />
+    <usb-device vendor-id="1452" product-id="4647" />
+</resources>
